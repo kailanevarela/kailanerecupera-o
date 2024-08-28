@@ -1,0 +1,8 @@
+:root { 
+--cor-da-fonte:dodgerblue;
+--cor-do-fundo:darkblue;
+}
+body { 
+color: var(--cor-da-fonte);
+background-color: var(--cor-do-fundo);
+}
